@@ -1,0 +1,9 @@
+[package]
+name = "myqt"
+version = "0.1.0"
+authors = ["Magnus Larsen <golgothasTerror101@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+generational-arena = "0.2.8"
